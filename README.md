@@ -4,7 +4,7 @@ Our model is a Deep Auto Encoder and based on the one in [Training Deep AutoEnco
 A typical auto encoder architecture:
 
 <p align="center">
-<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/2/28/Autoencoder_structure.png" alt="Typical auto encoder architecure">
+<img align="center" src="ModelArch.png" alt="Typical auto encoder architecure">
 </p>
 
 </br>
